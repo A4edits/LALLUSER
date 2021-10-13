@@ -3,16 +3,16 @@
 
   <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+ElsaMwolV2.1+WA+Bot+repo;Created+by+Jihad+Ser;This+is+the+Best++Bgm+bot;With+more+features)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LALLUSER+WA+Bot+repo;Created+by+A4+edits;This+is+the+Best++Bgm+bot;With+more+features)
 
-<a href="#"><img title="ElsaMwolV2.1" src="https://img.shields.io/badge/-Elsa%20Mowl v2.1-blue?&style=for-the-badge"></a>
+<a href="#"><img title="LALLUSER" src="https://img.shields.io/badge/-LALLU%20SER-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/J-I-H-A-D"><img title="Author" src="https://img.shields.io/badge/Author-JIHAD-Ser/Elsa%20Mowl?color=Blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/A4edits"><img title="Author" src="https://img.shields.io/badge/Author-A4-edits/LALLU%20SER?color=Blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-   Project created by <a href="https://github.com/J-I-H-A-D">J-I-H-A-D</a> to make it public
+   Project created by <a href="https://github.com/A4edits">A4edits</a> to make it public
     <br>
        Â© Reserved 
     <br>
@@ -21,13 +21,13 @@
 ----
 
   <p align="center">
-  <a href="httsp://github.com/J-I-H-A-D/ElsaMwolV2-1">
-    <img src="https://img.shields.io/github/repo-size/J-I-H-A-D/ElsaMwolV2-1?color=green&label=Repo%20total%20size&style=plastic">
+  <a href="httsp://github.com/A4edits/A4editsV2-1">
+    <img src="https://img.shields.io/github/repo-size/A4edits/A4editsV2-1?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/J-I-H-A-D/followers"><img title="Followers" src="https://img.shields.io/github/followers/J-I-H-A-D?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/J-I-H-A-D/ElsaMwolV2-1?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/J-I-H-A-D/ElsaMwolV2-1?color=blue&style=flat-square"></a>
-<a href="https://github.com/J-I-H-A-D/ElsaMwolV2-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/J-I-H-A-D/ElsaMwolV2-1?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/A4edits/followers"><img title="Followers" src="https://img.shields.io/github/followers/A4edits?color=blue&style=flat-square"></a>
+<a href="https://github.com/A4edits/A4editsV2-1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/A4edits/A4editsV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/A4edits/A4editsV2-1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/A4edits/A4editsV2-1?color=blue&style=flat-square"></a>
+<a href="https://github.com/A4edits/A4editsV2-1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/A4edits/A4editsV2-1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
 </p>
   
@@ -46,7 +46,7 @@ Click WA logo for Support ðŸ‘‡
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G0BrTf7gVURBxPO1FSFxKc)
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=J-I-H-A-D&repo=ElsaMwolV2.1&theme=nightowl)](https://github.com/J-I-H-A-D/ElsaMwol-V2.1)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A4edits&repo=LALLUSER&theme=nightowl)](https://github.com/A4edits/LALLUSER)
   </div>
 
 ## Setup
@@ -54,9 +54,9 @@ Click WA logo for Support ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/ElsaMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/A4edits)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jihad3321/ElsaMwol-V2.1)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/LALLUSER)
      </div>
 <br>
 <br >
@@ -74,8 +74,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/J-I-H-A-D/ElsaMwolV2.1
-$ cd ElsaMwolV2.1
+$ git clone https://github.com/A4edits/LALLUSER
+$ cd LALLUSER
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -85,8 +85,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/J-I-H-A-D/ElsaMwol-V2.1
-$ cd ElsaMwol-V2.1
+$ git clone https://github.com/A4edits/LALLUSER
+$ cd LALLUSER
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -99,13 +99,13 @@ $ node bot.js
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, J-I-H-A-D do not accept responsibility.
+Absolutely, A4edits do not accept responsibility.
 By establishing the Userbot, you are deemed to have accepted these responsibilities.
 ```
 
 
 
-Project created by JIHAD to make it public
+Project created by A4edits to make it public
 
 Â© Reserved
 
