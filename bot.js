@@ -1,9 +1,9 @@
-/* Copyright (C) 2020 JIHAD.
+/* Copyright (C) 2020 A4edits.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
 
-WhatsAsena - elsamwol
+WhatsAsena - LALLUSER
 */
 
 const fs = require("fs");
@@ -12,7 +12,7 @@ const events = require("./events");
 const chalk = require('chalk');
 const config = require('./config');
 const {WAConnection, MessageOptions, MessageType, Mimetype, Presence} = require('@adiwajshing/baileys');
-const {Message, StringSession, Image, Video} = require('./ElsaMowl/');
+const {Message, StringSession, Image, Video} = require('./LALLUSER/');
 const { DataTypes } = require('sequelize');
 const { getMessage } = require("./plugins/sql/greetings");
 const got = require('got');
@@ -106,11 +106,11 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
 
     conn.on('open', async () => {
         console.log(
-            chalk.green.bold('Login successful!👰')
+            chalk.green.bold('Login successful!✅')
         );
 
         console.log(
-            chalk.blueBright.italic('👰 Installing external plugins...')
+            chalk.blueBright.italic('ℹInstalling external plugins...')
         );
 
         var plugins = await plugindb.PluginDB.findAll();
@@ -126,7 +126,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.blueBright.italic('👰  Installing plugins...')
+            chalk.blueBright.italic('ℹ  Installing plugins...')
         );
 
         fs.readdirSync('./plugins').forEach(plugin => {
@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
         });
 
         console.log(
-            chalk.green.bold('ElsaMowl working! 👰')
+            chalk.green.bold('LALLUSER working! ✅')
         );
     });
     
@@ -269,8 +269,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '👰______```ElsaMowl-V2.1```_____👰' +
-                                    '\n\n*👰 ' + error + '*\n'
+                                await conn.sendMessage(conn.user.jid, '🙋‍♂️______```LALLUSER```_____🙋‍♂️' +
+                                    '\n\n*❌ ' + error + '*\n'
                                     , MessageType.text);
                             }
                         }
