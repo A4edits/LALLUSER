@@ -3,9 +3,9 @@
 
   <p align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LALLUSER+WA+Bot+repo;Created+by+A4+edits;This+is+the+Best++Bgm+bot;With+more+features)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LALLUSER2+WA+Bot+repo;Created+by+A4+edits;This+is+the+Best++Bgm+bot;With+more+features)
 
-<a href="#"><img title="LALLUSER" src="https://img.shields.io/badge/-LALLU%20SER-blue?&style=for-the-badge"></a>
+<a href="#"><img title="LALLUSER2" src="https://img.shields.io/badge/-LALLU%20SER-blue?&style=for-the-badge"></a>
 </p>
   <p align="center">
 <a href="https://github.com/A4edits"><img title="Author" src="https://img.shields.io/badge/Author-A4-edits/LALLU%20SER?color=Blue&style=for-the-badge&logo=whatsapp"></a>
@@ -46,7 +46,7 @@ Click WA logo for Support ðŸ‘‡
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/G0BrTf7gVURBxPO1FSFxKc)
   <div align="center">
 
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A4edits&repo=LALLUSER&theme=nightowl)](https://github.com/A4edits/LALLUSER)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=A4edits&repo=LALLUSER2&theme=nightowl)](https://github.com/A4edits/LALLUSER2)
   </div>
 
 ## Setup
@@ -56,7 +56,7 @@ Click WA logo for Support ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@JihadSabeena123/A4edits)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/LALLUSER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/A4edits/LALLUSER2)
      </div>
 <br>
 <br >
@@ -74,8 +74,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/A4edits/LALLUSER
-$ cd LALLUSER
+$ git clone https://github.com/A4edits/LALLUSER2
+$ cd LALLUSER2
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -85,8 +85,8 @@ $ node qr.js
 ```js
 SETUP
 
-$ git clone https://github.com/A4edits/LALLUSER
-$ cd LALLUSER
+$ git clone https://github.com/A4edits/LALLUSER2
+$ cd LALLUSER2
 $ chmod +x *
 $ npm i
 $ node qr.js
